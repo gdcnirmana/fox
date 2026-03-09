@@ -5,3 +5,4 @@ def testing_dedup():
     B = "BBBBBBBBB"
     C = "CCCCCCCCC"
     D = "DDDD"
+    E = "EEEE"
