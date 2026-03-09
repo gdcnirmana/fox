@@ -1,3 +1,4 @@
-A = "AAAAAAAAA"
-B = "BBBBBBBBB"
 
+B = "BBBBBCBBB"
+
+v = "dsgbmnfgbngnrbkjgnjkfnrtbjkfnrtbjknfgbjnbnejkrbnjkrsbnvjkrsrs"
